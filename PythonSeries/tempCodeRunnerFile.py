@@ -1,8 +1,8 @@
-# age2= age
-# print(age2)
-# print(type(name))
-# print(type(age))
-# print(type(price))
+age2= 23
+print(age2)
+
+print(type(age2))
+
 name1 ="sk"
 name2 ='sk'
 name3='''ak'''
