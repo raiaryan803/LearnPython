@@ -19,3 +19,15 @@ print(str.count("o"))
 print(str.count("a"))
 print(str.count("from"))
 print(str.count("i"))
+
+# end with...
+str = "i am studing python from apna college"
+print(str.endswith("ege"))
+print(str.endswith("app"))
+
+# captilize character...
+str = "i am studing python from apna college"
+print(str.capitalize())
+print(str)
+str=str.capitalize()
+print(str)
